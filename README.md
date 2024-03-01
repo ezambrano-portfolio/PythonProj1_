@@ -14,7 +14,11 @@ Project consists of simple Python scripts to showcase...
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
-![Github_Cyber_010324](https://github.com/ezambrano-portfolio/PythonProj1_/assets/30810638/4808d15e-d43f-47b3-8f51-15a856bf0757)
+<p align="center" width="100%">
+    This text is also aligned to the center.<br>
+    <img width="50%" src="https://github.com/ezambrano-portfolio/PythonProj1_/assets/30810638/4808d15e-d43f-47b3-8f51-15a856bf0757"> 
+</p>
+
 
 
 <h2>Environments Used </h2>

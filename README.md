@@ -13,6 +13,8 @@ Project consists of simple Python scripts to showcase...
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
+![Preview1](./images/img1.PNG)
+
 
 <h2>Environments Used </h2>
 

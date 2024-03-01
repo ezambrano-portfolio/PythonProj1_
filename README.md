@@ -14,6 +14,7 @@ Project consists of simple Python scripts to showcase...
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
+![Github_Cyber_010324](https://github.com/ezambrano-portfolio/PythonProj1_/assets/30810638/4808d15e-d43f-47b3-8f51-15a856bf0757)
 
 
 <h2>Environments Used </h2>
